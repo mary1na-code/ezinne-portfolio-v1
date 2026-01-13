@@ -1,6 +1,6 @@
 # First Portfolio (HTML & CSS)
 
-This is my very first portfolio project, built on **March 2024** when I started learning CSS.  
+This is my very first portfolio project, built on **March 2025** when I started learning CSS.  
 It showcases my early experiments with styling, animations, and responsive design.
 
 ---
